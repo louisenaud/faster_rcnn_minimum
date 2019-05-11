@@ -1,0 +1,5 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
+
+MODEL:
+  META_ARCHITECTURE: "GeneralizedRCNN"
+  WEIGHT: "catalog://Caffe2Detectron/COCO/35857197/e2e_faster_rcnn_R-50-C4_1x"
